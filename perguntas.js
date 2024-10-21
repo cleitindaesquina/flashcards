@@ -1,0 +1,5 @@
+criarCartao{
+    'categoria'
+    'pergunta'
+    'resposta'
+}
